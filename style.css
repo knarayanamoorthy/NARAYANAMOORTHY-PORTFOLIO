@@ -449,6 +449,9 @@ span {
 }
 
 @media (max-width: 365px) {
+    .home {
+        display: inline-block;
+    }
     .home-img img {
         width: 90vw;
     }
