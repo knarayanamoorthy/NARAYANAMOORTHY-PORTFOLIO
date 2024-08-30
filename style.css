@@ -449,8 +449,8 @@ span {
 }
 
 @media (max-width: 365px) {
-    .home {
-        display: inline-block;
+    .home-content h1 {
+        font-size: 30px;
     }
     .home-img img {
         width: 90vw;
